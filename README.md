@@ -27,7 +27,7 @@
 ### 기술 및 도구
 ***
 프론트엔드 - Html, css, javascript, react vite            
-백엔드 - Java, Springboot 
+백엔드 - Java, Springboot  
 모바일 - Dart, Flutter  
 데이터베이스 - Mysql, Redis  
 배포 - docker, aws ec2    
